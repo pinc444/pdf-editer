@@ -2204,7 +2204,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "pdf-editer"
+name = "pdf-editor"
 version = "0.1.0"
 dependencies = [
  "base64 0.22.1",

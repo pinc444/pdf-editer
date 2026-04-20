@@ -1,5 +1,5 @@
 [package]
-name = "pdf-editer"
+name = "pdf-editor"
 version = "0.1.0"
 description = "Windows-first PDF annotation/editor MVP shell"
 authors = ["pinc444"]

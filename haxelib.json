@@ -1,5 +1,5 @@
 {
-  "name": "pdf-editer-frontend",
+  "name": "pdf-editor-frontend",
   "license": "MIT",
   "classPath": "src-haxe",
   "releasenote": "MVP frontend for Tauri + Haxe + Coconut",

@@ -1,4 +1,4 @@
-# PDF Editer MVP (Windows-first)
+# PDF Editor MVP (Windows-first)
 
 This repository now contains a **real starter MVP** for a desktop PDF annotation/editor built with:
 

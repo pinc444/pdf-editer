@@ -120,7 +120,7 @@ class RootView extends View {
   function render() '
     <div class="app-shell">
       <aside class="panel">
-        <h1>PDF Editer MVP (Windows)</h1>
+        <h1>PDF Editor MVP (Windows)</h1>
         <p class="small">Tauri + Haxe + Coconut workflow shell for open/view/annotate/reorder/export.</p>
 
         <section>
