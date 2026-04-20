@@ -1,0 +1,8 @@
+-cp src-haxe
+-lib coconut.ui
+-lib coconut.vdom
+-main Main
+-dce full
+-D analyzer-optimize
+-D js_es=6
+-js src/generated/app.js

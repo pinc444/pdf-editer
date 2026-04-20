@@ -1,0 +1,14 @@
+{
+  "name": "pdf-editor-frontend",
+  "license": "MIT",
+  "classPath": "src-haxe",
+  "releasenote": "MVP frontend for Tauri + Haxe + Coconut",
+  "version": "0.1.0",
+  "contributors": [
+    "pinc444"
+  ],
+  "dependencies": {
+    "coconut.ui": "*",
+    "coconut.vdom": "*"
+  }
+}
